@@ -1,0 +1,14 @@
+{
+    "name": "kuduwriter",
+    "parameter": {
+		 "kuduConfig": {
+			"kudu.master": ""
+		 },
+        "table": "",
+        "primaryKey": [
+        ],
+        "column": [
+        ],
+		"encoding": ""
+    }
+}
